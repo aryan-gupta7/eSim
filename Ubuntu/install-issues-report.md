@@ -254,7 +254,7 @@ fi
 | `install-eSim.sh` | Added 25.04 case to version dispatch function |
 | `install-eSim-scripts/install-eSim-25.04.sh` | New file, copy of 24.04 script with Issues 2 and 3 fixed |
 | `nghdl/install-nghdl-scripts/install-nghdl-25.04.sh` | New file, copy of 24.04 script with Issues 4 and 5 fixed |
-| `library/`, `nghdl.zip` | Copied from release ZIP into repo (required for install, absent upstream) |
+| `src`, `library/`, `nghdl.zip` | Copied from release ZIP into repo (required for install, absent upstream) |
 
 ---
 
